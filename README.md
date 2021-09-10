@@ -15,3 +15,10 @@ Simple example using CSS with display-grid to *responsively* position content on
 
 💻[Navigable Preview](https://htmlpreview.github.io/?https://github.com/EverSilverio/simple-display-grid/blob/master/index.html) 
 
+## Material de apoio
+Exemplo baseado na explicação de Leonardo Ferreira **(TECMUNDO)**
+
+_https://www.youtube.com/watch?v=RNvQzo4DoOA_
+
+[![image](https://user-images.githubusercontent.com/5773748/132899309-f8e48f9e-265d-437d-b7c0-970fd31c7e6b.png)](https://www.youtube.com/watch?v=RNvQzo4DoOA)
+
