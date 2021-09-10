@@ -3,5 +3,14 @@
 
 # Simple template with display-grid CSS
 
-Simple example using CSS with display-grid to position content on an HTML page.
+Simple example using CSS with display-grid to *responsively* position content on an HTML page.
+
+## Sample Desktop
+
+![image](https://user-images.githubusercontent.com/5773748/132893583-d9859d1b-5a18-4243-94d8-3c8722c910d2.png)
+
+## Sample Mobile
+
+![image](https://user-images.githubusercontent.com/5773748/132893869-506dc2ec-5e54-4b66-852f-a848ff429a3f.png)
+
 
