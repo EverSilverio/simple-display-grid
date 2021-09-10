@@ -13,4 +13,5 @@ Simple example using CSS with display-grid to *responsively* position content on
 
 ![image](https://user-images.githubusercontent.com/5773748/132893869-506dc2ec-5e54-4b66-852f-a848ff429a3f.png)
 
+💻[Navigable Preview](https://htmlpreview.github.io/?https://github.com/EverSilverio/simple-display-grid/blob/master/index.html) 
 
