@@ -6,7 +6,7 @@
 
 #main {
     display: grid;
-    grid-template-rows: 10vh 15vh 60vh 15vh;
+    grid-template-rows: 10vh 15vh auto 15vh;
     grid-template-areas: "header header" "nav nav" "content aside" "footer footer";
 }
 
@@ -18,6 +18,7 @@
 .nav {
     grid-area: nav;
     background-color: blue;
+    z-index: 99;
 }
 
 .content {
@@ -39,11 +40,12 @@
 @media screen and (max-width: 768px) {
     #main {
         grid-template-areas: "header" "content" "aside" "footer";
-        grid-template-rows: 10vh 60vh 15vh 15vh; 
+        grid-template-rows: 10vh auto auto 10vh; 
     }
 
     .nav {
         grid-area: header;
         justify-self: end;
-    }
+    }    
+
 }
